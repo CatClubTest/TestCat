@@ -1,0 +1,57 @@
+{
+  "ecs7": true,
+  "runtimeVersion": "7",
+  "display": {
+    "title": "CatHouse Strip Club & Adult Ent",
+    "description": "",
+    "navmapThumbnail": "images/Outside.png",
+    "favicon": "Outside.png"
+  },
+  "owner": "Mr Cathouse",
+  "contact": {
+    "name": "Mr Cathouse",
+    "email": ""
+  },
+  "main": "bin/index.js",
+  "tags": [],
+  "scene": {
+    "parcels": [
+      "-113,-36",
+      "-113,-37",
+      "-113,-38"
+    ],
+    "base": "-113,-38"
+  },
+  "spawnPoints": [
+    {
+      "name": "casinoSpawn",
+      "default": true,
+      "position": {
+        "x": [
+          8
+        ],
+        "y": [
+          0
+        ],
+        "z": [
+          0
+        ]
+      },
+      "cameraTarget": {
+        "x": 8,
+        "y": 0,
+        "z": 0
+      }
+    }
+  ],
+  "featureToggles": {
+    "voiceChat": "enabled",
+    "portableExperiences": "enabled"
+  },
+  "rating": "T",
+  "source": {
+    "origin": "creator-hub",
+    "projectId": "61b5737b-2537-42bf-9a12-799bcbbea333"
+  }
+}
+  
